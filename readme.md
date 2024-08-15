@@ -25,6 +25,7 @@ Bu proje, kullanıcıların yapılacak işler listesi oluşturmasına, düzenlem
 ## Ekran Görüntüleri
 
 ![Yapılacaklar Listesi Ekran Görüntüsü](images/sc1.PNG)
+![Yapılacaklar Listesi Ekran Görüntüsü](images/sc2.PNG)
 
 ## 🤝 Katkıda Bulunma
 
