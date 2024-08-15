@@ -29,6 +29,7 @@ Bu proje, kullanıcıların yapılacak işler listesi oluşturmasına, düzenlem
 ## 🤝 Katkıda Bulunma
 
 Katkılarınızı bekliyoruz! Bu projeyi geliştirmek için pull request gönderin veya bir issue açarak önerilerinizi paylaşın.
+### 🚀 Yeni fikirler, işbirlikleri ve geri bildirimleriniz için bana ulaşın.
 
 ## 📝 Lisans
 
