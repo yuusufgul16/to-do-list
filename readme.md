@@ -22,6 +22,9 @@ Bu proje, kullanıcıların yapılacak işler listesi oluşturmasına, düzenlem
 3. Görevleri tamamladığınızda üzerine tıklayarak işaretleyin.
 4. Tüm görevleri temizlemek için `F2` tuşunu kullanabilirsiniz.
 
+## Demo
+https://yuusufgul16.github.io/to-do-list/
+
 ## Ekran Görüntüleri
 
 ![Yapılacaklar Listesi Ekran Görüntüsü](images/sc1.PNG)
