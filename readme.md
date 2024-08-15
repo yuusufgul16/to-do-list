@@ -26,9 +26,14 @@ Bu proje, kullanıcıların yapılacak işler listesi oluşturmasına, düzenlem
 
 ![Yapılacaklar Listesi Ekran Görüntüsü](link_to_screenshot.png)
 
-## Kurulum
+## 🤝 Katkıda Bulunma
 
-1. Bu projeyi kendi bilgisayarınıza klonlayın:
+Katkılarınızı bekliyoruz! Bu projeyi geliştirmek için pull request gönderin veya bir issue açarak önerilerinizi paylaşın.
 
-```bash
-git clone https://github.com/yuusufgul16/to-do-list.git
+
+## 📝 Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır.
+
+### 🚀 Yeni fikirler, işbirlikleri ve geri bildirimleriniz için bana ulaşın.
+
