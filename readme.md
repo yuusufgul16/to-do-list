@@ -36,5 +36,13 @@ Katkılarınızı bekliyoruz! Bu projeyi geliştirmek için pull request gönder
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
-### 🚀 Yeni fikirler, işbirlikleri ve geri bildirimleriniz için bana ulaşın.
+## 📱 Beni Takip Edin
+
+- **LinkedIn:** [Yusuf Gül]([https://www.linkedin.com/in/yusuf-gul](https://www.linkedin.com/in/yusufgul/))
+- **Instagram:** [@yusufgul]([https://www.instagram.com/yusufgul](https://www.instagram.com/yyusufgull/?hl=tr))
+
+---
+
+Yeni fikirler ve geri bildirimleriniz için bana ulaşabilirsiniz. Keyifli kodlamalar! 🎉
+
 
