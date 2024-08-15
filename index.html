@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yapılacaklar Listesi</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <div class="todo-app">
+        <h2><i class="fas fa-list"></i> Yapılacaklar Listesi</h2>
+        <div class="row">
+            <input type="text" id="input-box" placeholder="Notunu yaz">
+            <button onclick="addTask()">
+                <i class="fas fa-paper-plane"></i>
+            </button>
+        </div>
+        <ul id="list-container">
+            <!-- Liste öğeleri buraya eklenecek -->
+        </ul>
+        <button id="clear-all-btn" onclick="clearAll()"><i class="fas fa-trash"></i></button>
+    </div>
+</div>
+<div id="message-container" class="message-container"></div>
+<div id="key-info-container" class="key-info-container"></div>
+<script src="script.js"></script>
+</body>
+</html>
