@@ -39,7 +39,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 ## 📱 Beni Takip Edin
 
 - **LinkedIn:** [Yusuf Gül](https://www.linkedin.com/in/yusufgul/)
-- **Instagram:** [@yusufgul](https://www.instagram.com/yyusufgull/?hl=tr)
+- **Instagram:** [@yyusufgull](https://www.instagram.com/yyusufgull/?hl=tr)
 
 ---
 
