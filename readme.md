@@ -26,4 +26,12 @@ Bu proje, kullanıcıların yapılacak işler listesi oluşturmasına, düzenlem
 
 ![Yapılacaklar Listesi Ekran Görüntüsü](link_to_screenshot.png)
 
+## 🤝 Katkıda Bulunma
+
+Katkılarınızı bekliyoruz! Bu projeyi geliştirmek için pull request gönderin veya bir issue açarak önerilerinizi paylaşın.
+
+## 📝 Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır.
+
 
